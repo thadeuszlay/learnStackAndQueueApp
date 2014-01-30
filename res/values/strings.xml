@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LearnStackNQueue</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="bStack">Stack</string>
+    <string name="bQueue">Queue</string>
+    <string name="title_activity_stack">Stack</string>
+    <string name="title_activity_queue">Queue</string>
+	<string name="tGeneral">What is a Stack and a Queue? Well, both are Arrays. But contrary to "ordinary" Arrays you have only limited access to the Array\'s items. For example in an ordinary Array you can pretty much access all it\'s members in order to display, add or delete the items. In Stacks or Queues you just can\'t do it.</string>
+	<string name="tStack">In Stacks you can only add (or also called "push") and a new item in the very end of the Array. And you can only delete (or also called "pop") the last item of the Array. this is called Last-In-First-Out (LIFO).</string>
+	<string name="tQueue">In Queues you can also only add (or also called "enqueue") a new item at the very end of the Array. But you can only delete (or also called "dequeue") the first item. This is called First-In-First-Out (FIFO).</string>
+</resources>
